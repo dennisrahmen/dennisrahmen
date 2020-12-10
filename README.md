@@ -1,4 +1,4 @@
-### Hi there 👋,
+### Hi there 👋
 #### I´m Dennis Rahmen
 
 - 🔭 I’m currently working on a private Blazor WebAssembly project
