@@ -8,6 +8,9 @@
 - 📫 How to reach me: info@dennisrahmen.de
 - :world_map: From Germany
 
-|   |  |
-|:-------------:|:-------------:|
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=dennisrahmen&show_icons=true&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisrahmen&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
+<a href="https://github-readme-stats.vercel.app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dennisrahmen&show_icons=true&theme=dark" />
+</a>
+<a href="https://github-readme-stats.vercel.app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisrahmen&layout=compact&theme=dark" />
+</a>
