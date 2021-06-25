@@ -6,6 +6,7 @@
 - 💬 Ask me about anything Blazor
 - :world_map: From Germany
 
+<!---
 <a href="https://github-readme-stats.vercel.app">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dennisrahmen&show_icons=true&theme=dark" />
 </a>
